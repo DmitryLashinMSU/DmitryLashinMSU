@@ -33,6 +33,21 @@
 
 </td>
 </tr>
+<tr>
+<td style="background:#35385E30; padding:15px; vertical-align:top;">
+
+<!-- Место для Spectroastrometry_2.0 -->
+
+</td>
+<td style="background:#35385E30; padding:15px; vertical-align:top;">
+
+#### [NQT](https://github.com/DmitryLashinMSU/NQT)
+Пофантазируем о туннельном эффекте...
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+
+</td>
+</tr>
 </table>
 
   <br>
