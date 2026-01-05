@@ -17,7 +17,7 @@
 <tr>
 <td style="background:#35385E30; padding:15px; vertical-align:top;">
 
-#### [Spectroastrometry_2.0](https://github.com/DmitryLashinMSU/Spectroastrometry_2.0)
+#### [Spectroastrometry](https://github.com/DmitryLashinMSU/Spectroastrometry)
 Code for spectroastrometric analysis
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square)
@@ -37,7 +37,7 @@ Code for spectroastrometric analysis
 <td style="background:#35385E30; padding:15px; vertical-align:top;">
 
 
-#### [Spectroastrometry](https://github.com/DmitryLashinMSU/Spectroastrometry)
+#### [Spectroastrometry_start](https://github.com/DmitryLashinMSU/Spectroastrometry_start)
 Моделирование и обработка спектроастрометрических данных
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square)
