@@ -14,6 +14,33 @@
 <th style="background:#35385E; color:#A5C7FF; padding:10px; text-align:center;">Научка</th>
 <th style="background:#35385E; color:#A5C7FF; padding:10px; text-align:center;">Свое творчество</th>
 </tr>
+
+<!-- НОВАЯ ВЕРХНЯЯ СТРОКА -->
+<tr>
+<td style="background:#35385E30; padding:15px; vertical-align:top;">
+
+#### [Spectroastrometric_Tools](https://github.com/DmitryLashinMSU/Spectroastrometric_Tools)
+Tools for spectroastrometric data processing and observation planning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+
+</td>
+<td style="background:#35385E30; padding:15px; vertical-align:top;">
+
+#### [PaleoColorDB](https://github.com/DmitryLashinMSU/PaleoColorDB)
+Справочник по окраске докайнозойских ископаемых животных
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
+![Mako](https://img.shields.io/badge/Mako-555555?style=flat-square)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat-square)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square)
+
+</td>
+</tr>
+<!-- КОНЕЦ НОВОЙ СТРОКИ -->
+
 <tr>
 <td style="background:#35385E30; padding:15px; vertical-align:top;">
 
@@ -62,22 +89,5 @@ Code for spectroastrometric analysis
   [![Email](https://img.shields.io/badge/Email-0055FF?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:lashinda@my.msu.ru)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DmitryLashin1511)
   [![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id515845950)
-
-  ### Я в основном работаю с
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-  ### Также знаком с
-
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-  
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 </div>
