@@ -28,7 +28,7 @@ Tools for spectroastrometric data processing and observation planning
 <td style="background:#35385E30; padding:15px; vertical-align:top;">
 
 #### [PaleoColorDB](https://github.com/DmitryLashinMSU/PaleoColorDB)
-Справочник по окраске докайнозойских ископаемых животных
+Локальная веб-база данных по окраске ископаемых животных
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
